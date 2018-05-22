@@ -1,0 +1,27 @@
+# The largest heading
+## The second largest heading
+###### The smallest heading
+
+**This is bold text**
+*This text is italicized*
+~~This was mistaken text~~
+**This text is _extremely_ important**
+
+Use `git status` to list all new or modified files that haven't yet been committed.
+
+This site was built using [GitHub Pages](https://pages.github.com/).
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+
+- George Washington
+- John Adams
+- Thomas Jefferson
+
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
